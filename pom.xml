@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sarav</groupId>
-    <artifactId>MavenApp</artifactId>
+    <artifactId>TomcatMavenApp</artifactId>
     <version>3.0</version>
     <packaging>war</packaging>
 
-    <name>MavenApp</name>
+    <name>TomcatMavenApp</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
